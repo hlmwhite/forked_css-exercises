@@ -1,1 +1,22 @@
 /* Add CSS Styling */
+
+div {
+  color: #1100ff;
+  font-size: 36px;
+}
+
+.n1, .n3, .n5 {
+  background-color: #ff00a2;
+  font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.n3 {
+  font-size: 24px;
+}
+
+#n4 {
+  background-color: #00ff00;
+  font-size: 24px;
+  font-weight: bold;
+  color: #000000;
+}
